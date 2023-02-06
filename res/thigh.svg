@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1.955mm"
+   height="1.501mm"
+   viewBox="0 0 1.955 1.501"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="thigh.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="38.057741"
+     inkscape:cx="3.1925174"
+     inkscape:cy="2.0889311"
+     inkscape:window-width="1368"
+     inkscape:window-height="890"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text790" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="T-"
+       id="text790"
+       style="font-weight:bold;font-size:3.175px;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:3">
+      <path
+         d="M 0.9456787,0.31781013 V 1.501 H 0.55500487 V 0.31781013 H 0 V 7.8114681e-8 H 1.5006836 V 0.31781013 Z"
+         id="path1079"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         d="M 1.2548878,1.0194135 V 0.683 h 0.7 v 0.3364135 z"
+         id="path1076"
+         style="stroke-width:2.55604" />
+      <path
+         d="M 1.4368878,1.2012067 V 0.50120675 h 0.336 V 1.2012067 Z"
+         id="path1076-8"
+         style="font-weight:bold;font-size:3.175px;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';stroke-width:2.55447" />
+    </g>
+  </g>
+</svg>
